@@ -1,11 +1,9 @@
+# Die Funktionen wurden mithilfe von den Bibliotheken von Python, Pillow, tkinter geschrieben, außerdem wurde das Wissen
+# aus der Vorlesung/Übung angewendet und schlussendlich für einige Hilfestellungen ChatGPT
+
 from PIL import Image, ImageTk
 import tkinter as tk
 import argparse
-
-#Abgabe von Valentino Giorgio Pino, Matr.Nr.: 2225371
-
-# Die Funktionen wurden mithilfe von den Bibliotheken von Python, Pillow, tkinter geschrieben, außerdem wurde das Wissen
-# aus der Vorlesung/Übung angewendet und schlussendlich für einige Hilfestellungen ChatGPT
 
 # Parser für Batch-Kommandozeilenbetrieb
 # https://docs.python.org/3/library/argparse.html
